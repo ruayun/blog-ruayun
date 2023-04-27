@@ -105,3 +105,8 @@ deploy:
   type: 'git'
   branch: main
   repo: git@github.com:ruayun/blog-ruayun.git
+
+search:
+  path: search.xml
+  field: post
+  content: true
