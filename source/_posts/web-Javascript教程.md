@@ -1,9 +1,14 @@
 ---
     title: Javascript
-    date: 2023-04-02 10:00:07
     description: JS核心教程
-    cover: ./img/first_cover.jpg
+    tags: JavaScript DOM教程
+    categories: JavaScript教程
+    cover: # ./img/first_cover.jpg
     toc_number: false
+    sticky: 2
+    swiper_index: 2
+    date: 2023-04-02 10:00:07
+    updated: 2023-5-5 22:00:00
 ---
 
 # Web APIs 简介
