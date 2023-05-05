@@ -33,7 +33,7 @@ code_word_wrap: false
 social:
   fab fa-github: https://github.com/ruayun || Github || '#24292e'
   fas fa-envelope: mailto:ruayun2850@163.com || Email || '#4a7dbe'
-  fab fa-algolia: blog.ruayun.top || 博客
+  fab fa-algolia: https://blog.ruayun.top/ || 博客
 
 # Image (圖片設置)
 # --------------------------------------
