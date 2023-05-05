@@ -3,7 +3,7 @@
     date: 2023-04-02 10:00:07
     description: JS核心教程
     cover: ./img/first_cover.jpg
-    toc_number: true
+    toc_number: false
 ---
 
 # Web APIs 简介

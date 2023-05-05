@@ -11,19 +11,16 @@ nav:
 menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
-  清单||fa fa-heartbeat:
-    音乐: /music/ || fas fa-music
-    照片: /Gallery/ || fas fa-images
-    电影: /movies/ || fas fa-video
+  文章||fa fa-heartbeat:
+    标签: /tags/ || fas fa-tags
+    分类: /categories/ || fas fa-folder-open
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac light #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -42,11 +39,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /favicon.png
+favicon: favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: ./img/avator.jpg
+  img: https://cdn.staticaly.com/gh/ruayun/picgo@main/img/avator.3lo3h4lhk7k0.webp
   effect: false
 
 # Disable all banner image
@@ -56,7 +53,7 @@ disable_top_img: false
 index_img: 
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: ./img/top_img.jpeg
+default_top_img: 
 
 # The banner image of archive page
 archive_img:
@@ -72,7 +69,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img:
+category_img: 
 
 # The banner image of category page
 # format:
@@ -94,12 +91,12 @@ cover:
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-  flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  flink: /assets/r1.jpg
+  post_page: /assets/r2.jpg
 
 # A simple 404 page
 error_404:
-  enable: false
+  enable: true
   subtitle: 'Page Not Found'
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
@@ -234,7 +231,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/ruayun
   card_announcement:
     enable: true
     content: 一个可爱的兔子博客，感谢你的到来

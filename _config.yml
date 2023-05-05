@@ -4,7 +4,7 @@
 
 # Site
 title: 借得冷秋徐歌吟的博客
-subtitle: '这是一个可爱的兔子'
+subtitle: ''
 description: '记录兔子的成长历程以及总结'
 keywords: '借得冷秋徐歌吟'
 author: ruayun
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.ruayun.top/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,7 +104,7 @@ theme: butterfly
 deploy:
   type: 'git'
   branch: main
-  repo: git@github.com:ruayun/blog-ruayun.git
+  repo: #git@github.com:ruayun/blog-ruayun.git
 
 search:
   path: search.xml
