@@ -18,13 +18,13 @@
 
 ### JS的组成
 
-![image-20230421142532166](./Javascript.assets/image-20230421142532166.png)
+![image-20230421142532166](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421142532166.19bkceesm0n4.webp)
 
 
 
 ### JS 基础阶段以及 Web APIs 阶段 
 
-![image-20230421142752089](./Javascript.assets/image-20230421142752089.png)
+![image-20230421142752089](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421142752089.p2qfzugdvlc.png)
 
 JS 基础学习 ECMAScript 基础语法为后面作铺垫， Web APIs 是 JS 的应用，大量使用 JS 基础语法做交互效果
 
@@ -76,7 +76,7 @@ MDN 详细 API : https://developer.mozilla.org/zh-CN/docs/Web/API
 
 ### DOM树
 
-![image-20230421145432307](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421145432307.png)
+![image-20230421145432307](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421145432307.562bqaxyqpc0.png)
 
 - 文档：一个页面就是一个文档，DOM 中使用 document 表示 元素
 - 页面中的所有标签都是元素，DOM 中使用 element 表示 节点
@@ -176,7 +176,7 @@ JavaScript 使我们有能力创建动态页面，而事件是可以被 JavaScri
 
 #### 常见的鼠标事件
 
-![image-20230421153845046](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421153845046.png)
+![image-20230421153845046](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421153845046.1iljzbag6egw.png)
 
 #### 分析事件三要素
 
@@ -281,7 +281,7 @@ type、value、checked、selected、disabled
 
 点击按钮将密码框切换为文本框，并可以查看密码明文。
 
-![image-20230421154553749](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421154553749.png)
+![image-20230421154553749](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421154553749.3o6dywg0efg0.webp)
 
 核心思路：  
 
@@ -373,7 +373,7 @@ type、value、checked、selected、disabled
 
 当鼠标点击二维码关闭按钮的时候，则关闭整个二维码。
 
-![image-20230421160639039](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421160639039.png)
+![image-20230421160639039](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421160639039.3k7biildvyo0.webp)
 
 核心思路：  
 
@@ -405,7 +405,7 @@ type、value、checked、selected、disabled
 
 可以利用 for 循环设置一组元素的精灵图背景
 
-![image-20230421161002371](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421161002371.png)
+![image-20230421161002371](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421161002371.63jtjkhptro0.webp)
 
 案例分析：
 
@@ -486,7 +486,7 @@ type、value、checked、selected、disabled
 
 当鼠标点击文本框时，里面的默认文字隐藏，当鼠标离开文本框时，里面的文字显示。
 
-![image-20230421161352852](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421161352852.png)
+![image-20230421161352852](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421161352852.sgc5jisuljk.webp)
 
 案例分析：
 
@@ -556,7 +556,7 @@ type、value、checked、selected、disabled
 
 用户如果离开密码框，里面输入个数不是6~16，则提示错误信息，否则提示输入正确信息
 
-![image-20230421162526203](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421162526203.png)
+![image-20230421162526203](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421162526203.3kcxk8z8xi40.webp)
 
 案例分析：
 
@@ -635,7 +635,7 @@ type、value、checked、selected、disabled
 
 操作元素是 DOM 核心内容
 
-![image-20230421162951991](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421162951991.png)
+![image-20230421162951991](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421162951991.3a0cegyks2i0.png)
 
 #### 案例进阶
 
@@ -646,7 +646,7 @@ type、value、checked、selected、disabled
 
 #### 排他思想（案例）
 
-![image-20230421163326279](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421163326279.png)
+![image-20230421163326279](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421163326279.5kwhr0w19os0.webp)
 
 如果有同一组元素，我们想要某一个元素实现某种样式， 需要用到循环的排他思想算法：
 
@@ -777,7 +777,7 @@ type、value、checked、selected、disabled
 
 #### 案例：表格隔行变色
 
-![image-20230421170136853](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421170136853.png)
+![image-20230421170136853](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421170136853.7f9btg98p5o0.png)
 
 案例分析：
 
@@ -912,7 +912,7 @@ type、value、checked、selected、disabled
 
 #### 案例：表单全选取消全选案例
 
-![image-20230421170534501](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421170534501.png)
+![image-20230421170534501](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421170534501.404rvd8hnvk0.webp)
 
 业务需求：
 
@@ -1093,7 +1093,7 @@ type、value、checked、selected、disabled
 
 当鼠标点击上面相应的选项卡（tab），下面内容跟随变化
 
-![image-20230421171537784](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421171537784.png)
+![image-20230421171537784](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421171537784.3et5cvnp7ro0.png)
 
 案例分析：
 
@@ -1248,7 +1248,7 @@ H5规定自定义属性data-开头做为属性名并且赋值。
 
 获取元素通常使用两种方式：
 
-![image-20230421172501533](E:\zzh\Mine\Study\Typora笔记\javascript教程\Javascript教程.assets\image-20230421172501533.png)
+![image-20230421172501533](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421172501533.4tku5mgeu9i0.png)
 
 这两种方式都可以获取元素节点，我们后面都会使用，但是节点操作更简单
 
