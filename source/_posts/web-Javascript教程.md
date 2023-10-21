@@ -79,7 +79,7 @@ MDN 详细 API : https://developer.mozilla.org/zh-CN/docs/Web/API
 
 ### DOM树
 
-![image-20230421145432307](https://cdn.staticaly.com/gh/ruayun/picgo@main/img-js/image-20230421145432307.562bqaxyqpc0.png)
+![image-20230421145432307](https://cdn.statically.io/gh/ruayun/picgo@main/img/image-20230421142532166.png)
 
 - 文档：一个页面就是一个文档，DOM 中使用 document 表示 元素
 - 页面中的所有标签都是元素，DOM 中使用 element 表示 节点

@@ -43,7 +43,7 @@ favicon: favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.staticaly.com/gh/ruayun/picgo@main/img/avator.3lo3h4lhk7k0.webp
+  img: https://cdn.statically.io/gh/ruayun/picgo@main/img/avator.3lo3h4lhk7k0.webp
   effect: false
 
 # Disable all banner image
@@ -87,7 +87,7 @@ cover:
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-      - https://cdn.staticaly.com/gh/ruayun/picgo@main/img/first_cover.28egpwzcd4bo.jpg
+      - https://cdn.statically.io/gh/ruayun/picgo@main/img/first_cover.28egpwzcd4bo.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -640,7 +640,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://cdn.staticaly.com/gh/ruayun/picgo@main/img/index_img.2csl4obe0fi.webp)
+background: url(https://cdn.statically.io/gh/ruayun/picgo@main/img/index_img.2csl4obe0fi.webp)
 
 # Footer Background
 footer_bg: false
